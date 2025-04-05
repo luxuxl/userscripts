@@ -1,2 +1,9 @@
-# userscripts
-This is my personal UserScripts repository.Some are modified by myself.
+**bilibili 移动端**
+
+原作者
+- jk278
+
+修改内容
+- 移除白色背景，更加协调 +change_bg_color()
+- 移除主页头图 handleHeaderImage()
+- 主页始终显示搜索栏 css
