@@ -1,9 +1,10 @@
-**bilibili 移动端**
+**bilibili移动端优化**
 
-原作者
-- jk278
+原名: bilibili 移动端
 
-修改内容
+原作者: jk278
+
+修改内容:
 - 移除白色背景，更加协调 +change_bg_color()
 - 移除主页头图 handleHeaderImage()
 - 主页始终显示搜索栏 css
