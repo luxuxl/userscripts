@@ -1,6 +1,4 @@
-**bilibili移动端优化**
-
-原名: bilibili 移动端
+**bilibili移动端**
 
 原作者: jk278
 
