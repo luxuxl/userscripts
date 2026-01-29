@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         禁止 Bing Keydown 监听
-// @namespace    none
+// @namespace    https://github.com/luxuxl/
 // @version      0.1
 // @description  Bing 的 Keydown 监听会导致 vimkey 失效, 所以需要禁止
-// @author       Luxury
+// @author       luxuxl
 // @match        *://bing.com/*
 // @match        *://cn.bing.com/*
 // @match        *://www.bing.com/*
 // @grant        none
 // @run-at       document-start
+// @downloadURL  https://github.com/luxuxl/userscripts/raw/refs/heads/main/%E7%A6%81%E6%AD%A2Bing%E6%8C%89%E9%94%AE%E7%9B%91%E5%90%AC.user.js
 // ==/UserScript==
 
 (function() {
